@@ -13,3 +13,4 @@ AI時代にWebアプリケーションを低レイヤーから理解する、ジ
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# drop an unused branch
