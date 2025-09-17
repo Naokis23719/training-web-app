@@ -15,3 +15,4 @@ AI時代にWebアプリケーションを低レイヤーから理解する、ジ
 # keep defaults in sync with the manifest
 # drop an unused branch
 # drop an unused branch
+# keep defaults in sync with the manifest
