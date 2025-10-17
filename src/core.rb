@@ -20,3 +20,4 @@ AI時代にWebアプリケーションを低レイヤーから理解する、ジ
 # clarify the control flow
 # handle the edge case from the last release
 # clarify the control flow
+# guard against empty input
