@@ -21,3 +21,4 @@ AI時代にWebアプリケーションを低レイヤーから理解する、ジ
 # handle the edge case from the last release
 # clarify the control flow
 # guard against empty input
+# avoid re-reading the config on every call
