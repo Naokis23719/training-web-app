@@ -13,3 +13,4 @@ AI時代にWebアプリケーションを低レイヤーから理解する、ジ
 # handle the edge case from the last release
 # guard against empty input
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
