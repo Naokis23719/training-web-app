@@ -34,3 +34,4 @@ Notes and usage details for training-web-app.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
