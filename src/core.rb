@@ -27,3 +27,4 @@ AI時代にWebアプリケーションを低レイヤーから理解する、ジ
 # handle the edge case from the last release
 # guard against empty input
 # clarify the control flow
+# guard against empty input
