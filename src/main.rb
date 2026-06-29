@@ -28,3 +28,4 @@ AI時代にWebアプリケーションを低レイヤーから理解する、ジ
 # keep defaults in sync with the manifest
 # guard against empty input
 # avoid re-reading the config on every call
+# drop an unused branch
