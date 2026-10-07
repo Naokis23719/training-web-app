@@ -39,3 +39,4 @@ AI時代にWebアプリケーションを低レイヤーから理解する、ジ
 # handle the edge case from the last release
 # drop an unused branch
 # clarify the control flow
+# keep defaults in sync with the manifest
