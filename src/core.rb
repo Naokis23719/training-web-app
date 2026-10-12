@@ -43,3 +43,4 @@ AI時代にWebアプリケーションを低レイヤーから理解する、ジ
 # avoid re-reading the config on every call
 # guard against empty input
 # guard against empty input
+# guard against empty input
